@@ -16,7 +16,7 @@ Step 2: install ROS1(In Ubuntu14.04, you should install **ROS Kinetic Version**)
 Step 3: Creating a workspace for catkin. [Instructions Link-Official](http://wiki.ros.org/catkin/Tutorials/create_a_workspace)
 <br/>
 <br/>
-Step 4 (Optional): Drivers Installing. (If the terminal reports some mistakes on your screen, based on the notifiction to install related package)
+Step 4 (Optional): Drivers Installing. (If the terminal reports some mistakes on your screen, install related package based on the notifiction)
 <br/>
 <br/>
 Step 5: Install Gazebo [Instructions Link-Official](http://gazebosim.org/tutorials?tut=install_ubuntu)
